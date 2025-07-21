@@ -26,10 +26,13 @@
 
 #### 🤖 AI / ML / DL
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,numpy,pandas" height="40"/>
-  <img src="https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" height="25"/>
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="40"/>
   <img src="https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white" height="25"/>
 </p>
+
 
 #### 🌐 Web Dev
 <p align="center">
