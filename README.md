@@ -53,7 +53,7 @@
 
 #### ☁️ Tools & Cloud
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vercel,docker,aws" height="40"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,streamlit" height="40"/>
 </p>
 
 ---
@@ -93,17 +93,6 @@
     <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail"/>
   </a>
  
-</p>
-
----
-
-### 💖 Support My Work
-
-<p align="center">
-  If you find my work helpful or interesting, consider giving a star on my repositories! Your support motivates me to create more.
-</p>
-<p align="center">
-  <a href="https://github.com/VaibhavBhagat665?tab=stars"><img src="https://img.shields.io/badge/Support%20Me-Star%20My%20Repos-blueviolet?style=for-the-badge&logo=github" alt="Star My Repos"></a>
 </p>
 
 ---
