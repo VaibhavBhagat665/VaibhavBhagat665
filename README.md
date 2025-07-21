@@ -35,13 +35,10 @@
 
 #### 🤖 AI / ML / DL
 <p align="center">
-  <img src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" height="25"/>
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="40"/>
-  <img src="https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white" height="25"/>
+  <img src="https://cdn.simpleicons.org/numpy/013243" height="40" alt="NumPy"/>
+  <img src="https://cdn.simpleicons.org/pandas/150458" height="40" alt="Pandas"/>
+  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="40" alt="Scikit-learn"/>
+  <img src="https://skillicons.dev/icons?i=tensorflow,keras,pytorch,openai,streamlit" height="40"/>
 </p>
 
 
@@ -53,7 +50,7 @@
 
 #### ☁️ Tools & Cloud
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vercel,streamlit" height="40"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vercel" height="40"/>
 </p>
 
 ---
