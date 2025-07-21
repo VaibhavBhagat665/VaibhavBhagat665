@@ -66,7 +66,7 @@
 </p>
 
 <p align="center">
-  [![GitHub Streak](https://github-readme-streak-stats-ri4i2uov7-vaibhavbhagat665s-projects.vercel.app/?user=VaibhavBhagat665&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+  [![GitHub Streak](https://github-readme-streak-stats-two-cyan.vercel.app/?user=VaibhavBhagat665&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 </p>
 
 ---
