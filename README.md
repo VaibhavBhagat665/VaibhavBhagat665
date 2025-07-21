@@ -38,7 +38,10 @@
   <img src="https://cdn.simpleicons.org/numpy/013243" height="40" alt="NumPy"/>
   <img src="https://cdn.simpleicons.org/pandas/150458" height="40" alt="Pandas"/>
   <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="40" alt="Scikit-learn"/>
-  <img src="https://skillicons.dev/icons?i=tensorflow,keras,pytorch,openai,streamlit" height="40"/>
+  <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="40" alt="TensorFlow"/>
+  <img src="https://cdn.simpleicons.org/keras/D00000" height="40" alt="Keras"/>
+  <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="40" alt="PyTorch"/>
+  <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" height="40" alt="Streamlit"/>
 </p>
 
 
