@@ -66,7 +66,7 @@
 </p>
 
 <p align="center">
-  <img src="https://your-app-name.vercel.app/?user=VaibhavBhagat665&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=VaibhavBhagat665)](https://git.io/streak-stats)
 </p>
 
 ---
