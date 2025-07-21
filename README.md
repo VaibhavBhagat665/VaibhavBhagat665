@@ -66,7 +66,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VaibhavBhagat665&theme=tokyonight&hide_border=true" />
+  <img src="https://your-app-name.vercel.app/?user=VaibhavBhagat665&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -92,7 +92,6 @@
   <a href="mailto:vaibhavbhagat7461@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail"/>
   </a>
- 
 </p>
 
 ---
