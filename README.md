@@ -66,7 +66,7 @@
 </p>
 
 <p align="center">
-  [![GitHub Streak](https://github-readme-streak-stats-two-cyan.vercel.app?user=VaibhavBhagat665&theme=dark&hide_border=true)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=VaibhavBhagat665)](https://git.io/streak-stats)
 </p>
 
 ---
