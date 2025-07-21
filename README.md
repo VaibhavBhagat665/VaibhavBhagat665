@@ -12,7 +12,6 @@
 - 🎓 B.Tech IT (2028) | IIIT Sonepat  
 - 🤖 AI systems with Python, TensorFlow, and GenAI tools  
 - 💻 Full-stack dev with MERN + TypeScript  
-- 🚀 Exploring MLOps, RAG, and Transformers  
 - ⚙️ Building and learning through real-world projects  
 
 ---
