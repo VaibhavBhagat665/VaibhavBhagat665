@@ -66,7 +66,7 @@
 </p>
 
 <p align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=VaibhavBhagat665)](https://git.io/streak-stats)
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-two-cyan.vercel.app?user=VaibhavBhagat665&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
 </p>
 
 ---
