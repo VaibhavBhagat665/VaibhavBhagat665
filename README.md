@@ -60,7 +60,10 @@
 
 ### 📈 GitHub Activity & Stats
 
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VaibhavBhagat665&show_icons=true&theme=tokyonight&hide_title=true&hide_rank=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaibhavBhagat665&layout=compact&theme=tokyonight" width="48%"/>
+</p>
 
 <p align="center">
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-two-cyan.vercel.app?user=VaibhavBhagat665&theme=dark&hide_border=true&hide_total_contributions=true" alt="GitHub Streak" /></a>
