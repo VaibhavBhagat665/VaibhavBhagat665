@@ -58,6 +58,15 @@
 
 ---
 
+### 📈 GitHub Activity & Stats
+
+<p align="center">
+  <img src="https://github-readme-stats-three-smoky-66.vercel.app/api?username=VaibhavBhagat665&show_icons=true&theme=tokyonight&hide_title=true&hide_rank=true" width="48%"/>
+  <img src="https://github-readme-stats-three-smoky-66.vercel.app/api/top-langs/?username=VaibhavBhagat665&layout=compact&theme=tokyonight" width="48%"/>
+</p>
+
+---
+
 ### 🧠 Currently Exploring
 
 - 🔍 **Advanced ML**: Deepening my understanding of **SVR, XGBoost, Reinforcement Learning**, and exploring cutting-edge algorithms.
