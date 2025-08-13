@@ -30,10 +30,9 @@
 
 #### 💻 Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,ts,js,html,css" height="40"/>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,ts,js,html,css,dart" height="40"/>
 </p>
-
-#### 🤖 AI / ML / DL
+🤖 AI / ML / DL
 <p align="center">
   <img src="https://cdn.simpleicons.org/numpy/013243" height="40" alt="NumPy"/>
   <img src="https://cdn.simpleicons.org/pandas/150458" height="40" alt="Pandas"/>
@@ -42,18 +41,16 @@
   <img src="https://cdn.simpleicons.org/keras/D00000" height="40" alt="Keras"/>
   <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="40" alt="PyTorch"/>
   <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" height="40" alt="Streamlit"/>
+  <img src="https://cdn.simpleicons.org/langchain/1C3C3C" height="40" alt="LangChain"/>
 </p>
-
-
-#### 🌐 Web Dev
+🌐 Web Dev
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,firebase,vite" height="40"/>
   <img src="https://skillicons.dev/icons?i=nextjs,tailwind" height="40"/>
 </p>
-
-#### ☁️ Tools & Cloud
+☁️ Tools & Cloud
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vercel" height="40"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,docker,gcp" height="40"/>
 </p>
 
 ---
