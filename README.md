@@ -104,12 +104,7 @@ const vaibhav = {
 
 <div align="center">
   <img src="https://github-readme-stats-three-smoky-66.vercel.app/api?username=VaibhavBhagat665&show_icons=true&theme=tokyonight&hide_title=false&hide_rank=false&include_all_commits=true&count_private=true" width="49%" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VaibhavBhagat665&theme=tokyonight" width="49%" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
   <img src="https://github-readme-stats-three-smoky-66.vercel.app/api/top-langs/?username=VaibhavBhagat665&layout=compact&theme=tokyonight&langs_count=8" width="49%" alt="Top Languages"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VaibhavBhagat665&theme=tokyo-night&hide_border=true&area=true" width="49%" alt="Activity Graph"/>
 </div>
 
 ---
