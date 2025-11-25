@@ -12,18 +12,6 @@
 - 💻 Experienced in **full-stack development** with the **MERN stack + TypeScript, Tailwind CSS, and Firebase Auth**, bringing ideas to life from front to back.
 - ⚙️ Committed to **building and learning through real-world projects**, transforming theoretical knowledge into practical solutions.
 - 🐳 Proficient in **Docker** for containerization and optimizing development workflows with **CI/CD practices**.
-- 🌱 Always exploring new technologies and frameworks to expand my skill set and stay ahead of the curve.
-
----
-
-### 🚀 My Core Strengths
-- **Machine Learning & Deep Learning**: From data preprocessing to model deployment, I'm adept at creating intelligent solutions using **SVR, XGBoost, Reinforcement Learning**, and other cutting-edge algorithms.
-- **Full-Stack Development**: Building robust and scalable web applications with a focus on user experience and modern tech stack.
-- **Natural Language Processing**: Building sophisticated NLP applications with **Transformers & RAG using LangChain**.
-- **Problem Solving**: I enjoy tackling complex challenges and devising efficient, elegant solutions.
-- **Collaborative Spirit**: Eager to work with teams and contribute to impactful projects.
-
----
 
 ### ⚙️ Tech Stack
 
