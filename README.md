@@ -2,7 +2,7 @@
   <tr>
     <td width="60%" valign="middle">
       <div align="center">
-        <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=021B79,0575E6,20BDFF&height=160&section=header&text=Vaibhav%20Bhagat&fontSize=42&fontAlign=50&fontAlignY=35&font=Audiowide&desc=AI%2FML%20Enthusiast&descAlign=50&descAlignY=70&animation=fadeIn&fontColor=ffffff&stroke=000000&strokeWidth=1" width="100%"/>
+        <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=021B79,0575E6,20BDFF&height=160&section=header&text=Vaibhav%20Bhagat&fontSize=48&fontAlign=50&fontAlignY=35&font=Audiowide&desc=AI%2FML%20Enthusiast&descAlign=50&descAlignY=70&animation=fadeIn&fontColor=ffffff&stroke=000000&strokeWidth=1" width="100%"/>
       </div>
       <br/>
       <h3>About Me</h3>
@@ -10,6 +10,7 @@
         <li>🎓 <b>B.Tech IT (2028)</b> @ IIIT Sonepat</li>
         <li>🤖 Passionate about <b>AI/ML, Transformers & RAG</b></li>
         <li>🚀 Building <b>Hyper-realistic GenAI Art & Full-Stack Apps</b></li>
+        <p></p>
       </ul>
     </td>
     <td width="40%" align="center" valign="middle">
