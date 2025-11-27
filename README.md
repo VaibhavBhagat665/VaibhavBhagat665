@@ -10,7 +10,7 @@
       <br/><br/>
       <code>➤ Passionate about AI/ML (Transformers & RAG)</code>
       <br/><br/>
-      <code>➤ Building Hyper-realistic GenAI Art & Full-Stack Apps</code>
+      <code>➤ Building AI Models & Full-Stack Apps</code>
     </td>
     <td width="40%" align="center" valign="middle">
       <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHI5eWk5eGJ4eW9neXF4eGZ5aGR5eGZ5eGR5eGZ5eGR5eGZ5eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L8K62iTDkzGX6/giphy.gif" width="90%" alt="coding gif"/>
