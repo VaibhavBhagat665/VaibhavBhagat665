@@ -3,11 +3,9 @@
     <td width="60%" valign="middle">
       <div align="center">
         <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=50&pause=100000&color=90E0EF&center=true&vCenter=true&width=600&lines=Vaibhav+Bhagat" alt="Vaibhav Bhagat" />
-        
         <h3 style="color: #ffffff; margin-top: -5px;">AI/ML Enthusiast</h3>
       </div>
       <br/>
-      
       <h3><samp>root@vaibhav:~$ whoami</samp></h3>
       <code>> B.Tech IT (2028) @ IIIT Sonepat</code><br/>
       <code>> Passionate about AI/ML (Transformers & RAG)</code><br/>
