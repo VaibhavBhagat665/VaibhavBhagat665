@@ -7,9 +7,9 @@
       <br/>
       <h3>About Me</h3>
       <ul>
-        <li><b>B.Tech IT (2028) @ IIIT Sonepat</b></li>
-        <li>Passionate about <i>AI/ML, Transformers & RAG</i></li>
-        <li>Building <i>Hyper-realistic GenAI Art & Full-Stack Apps</i></li>
+        <li><code>B.Tech IT (2028) @ IIIT Sonepat</code></li>
+        <li><code>Passionate about AI/ML, Transformers & RAG</code></li>
+        <li><code>Building Hyper-realistic AI Models & Full-Stack Apps</code></li>
       </ul>
     </td>
     <td width="40%" align="center" valign="middle">
