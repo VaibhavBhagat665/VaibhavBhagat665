@@ -2,15 +2,15 @@
   <tr>
     <td width="60%" valign="middle">
       <div align="center">
-        <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=005C97,363795,ffffff&height=150&section=header&text=Vaibhav%20Bhagat&fontSize=42&fontAlign=50&fontAlignY=40&font=Cinzel&desc=AI%2FML%20Enthusiast&descAlign=50&descAlignY=75&animation=twinkling&fontColor=ffffff" width="100%"/>
+        <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=021B79,0575E6,20BDFF&height=160&section=header&text=Vaibhav%20Bhagat&fontSize=42&fontAlign=50&fontAlignY=35&font=Audiowide&desc=AI%2FML%20Enthusiast&descAlign=50&descAlignY=70&animation=fadeIn&fontColor=ffffff&stroke=000000&strokeWidth=1" width="100%"/>
       </div>
       <br/>
       <h3>About Me</h3>
-      <blockquote>
-        <b>🎓 B.Tech IT (2028) @ IIIT Sonepat</b><br/>
-        <b>🤖 Passionate about AI/ML, Transformers & RAG</b><br/>
-        <b>🚀 Building Hyper-realistic GenAI Art & Full-Stack Apps</b>
-      </blockquote>
+      <ul>
+        <li>🎓 <b>B.Tech IT (2028)</b> @ IIIT Sonepat</li>
+        <li>🤖 Passionate about <b>AI/ML, Transformers & RAG</b></li>
+        <li>🚀 Building <b>Hyper-realistic GenAI Art & Full-Stack Apps</b></li>
+      </ul>
     </td>
     <td width="40%" align="center" valign="middle">
       <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHI5eWk5eGJ4eW9neXF4eGZ5aGR5eGZ5eGR5eGZ5eGR5eGZ5eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L8K62iTDkzGX6/giphy.gif" width="90%" alt="coding gif"/>
