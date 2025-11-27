@@ -7,7 +7,6 @@
         <h3 style="margin-top: -10px; color: #ffffff;">AI/ML Enthusiast</h3>
       </div>
       <br/>
-      
       <h3><samp>root@vaibhav:~$ whoami</samp></h3>
       <code>> B.Tech IT (2028) @ IIIT Sonepat</code><br/>
       <code>> Passionate about AI/ML (Transformers & RAG)</code><br/>
