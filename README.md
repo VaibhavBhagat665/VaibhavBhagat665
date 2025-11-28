@@ -2,8 +2,8 @@
   <tr>
     <td width="60%" valign="middle">
       <div align="center">
-        <p></p>
-        <p></p>
+        <p> </p>
+        <p> </p>
         <img src="https://readme-typing-svg.demolab.com?font=VT323&size=60&pause=100000&color=00FF00&center=true&vCenter=true&width=800&lines=Vaibhav+Bhagat" alt="Vaibhav Bhagat" />
         <h3 style="color: #ffffff; margin-top: -5px;">AI/ML Enthusiast</h3>
       </div>
